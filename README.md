@@ -1,6 +1,6 @@
 # Snake Game
 A old goodie snake game in python. 
-![Image of Game](https://github.com/yueyaog/snakeGame/auxiliary/Game_ScreenShot.png)
+![Image of Game](https://github.com/yueyaog/snakeGame/blob/master/auxiliary/Game_ScreenShot.png)
 
 # Run SnakeGame
 ```angular2html
